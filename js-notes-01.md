@@ -1,4 +1,4 @@
-# JS Chapter One
+# JS Chapter One ~ Values, Types, and Operators
 ***
 ### What is JS?
 - JS created in 1995
